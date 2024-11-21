@@ -674,6 +674,21 @@ video {
 .h-screen {
   height: 100vh;
 }
+.h-\[\] {
+  height: ;
+}
+.h-\[10\] {
+  height: 10;
+}
+.h-\[100vh\] {
+  height: 100vh;
+}
+.h-\[0vh\] {
+  height: 0vh;
+}
+.h-\[80vh\] {
+  height: 80vh;
+}
 .max-h-14 {
   max-height: 3.5rem;
 }
